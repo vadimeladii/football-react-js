@@ -1,0 +1,37 @@
+.App {
+    text-align: center;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+.footer-blurb h3 {
+    color: midnightblue;
+}
+
+.footer-blurb-item {
+    padding: 30px 0;
+}
+
+.copyright {
+    background-color: #171717;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.portfolio-item {
+    margin-bottom: 35px;
+}
+
+.header-item {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.image {
+    height: 300px;
+    width:550px;
+}
